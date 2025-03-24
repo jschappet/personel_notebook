@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": true,
+  "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -17,6 +17,10 @@
     {
       "folder": "Timestamps",
       "template": "Extras/Templates/Template - DailyNote.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
@@ -26,10 +30,10 @@
       "template": ""
     }
   ],
-  "syntax_highlighting": false,
+  "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Extras/Templates/Template - DailyNote.md"
+    ""
   ],
   "startup_templates": [
     ""
