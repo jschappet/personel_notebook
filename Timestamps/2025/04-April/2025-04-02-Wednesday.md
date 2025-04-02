@@ -10,10 +10,10 @@ tags:: [[+Daily Notes]]
 ---
 ### Daily Questions
 #####  One memory from my meditation..  
-- <% tp.file.cursor() %>
+- 
 
 #####  One thing I'm excited about right now is...
-- 
+- Getting github to sync and work correctly 
 ##### One thing that is important to me ...
 - 
 ##### Something about circling today...  
