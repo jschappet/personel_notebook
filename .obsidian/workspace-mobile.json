@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/03-March/2025-03-23-Sunday.md",
-                "mode": "preview",
+                "file": "Timestamps/2025/03-March/2025-03-30-Sunday.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-23-Sunday"
+              "title": "2025-03-30-Sunday"
             }
           }
         ]
@@ -159,7 +159,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
@@ -167,8 +166,11 @@
   },
   "active": "97d42fc3d04845c0",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Timestamps/2025/03-March/2025-03-25-Tuesday.md",
+    "Timestamps/2025/03-March/2025-03-30-Sunday.md",
+    "My Theory of the World.md",
     "Timestamps/2025/03-March/2025-03-23-Sunday.md",
+    "Welcome.md",
     "Timestamps/2025/03-March/2025-03-22-Saturday.md",
     "2025-03-23.md"
   ]
