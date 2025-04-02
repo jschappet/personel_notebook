@@ -10,7 +10,7 @@ tags:: [[+Daily Notes]]
 ---
 ### Daily Questions
 #####  One memory from my meditation..  
-- <% tp.file.cursor() %>
+- 
 
 #####  One thing I'm excited about right now is...
 - 
@@ -18,7 +18,7 @@ tags:: [[+Daily Notes]]
 - 
 ##### Something about circling today...  
 - 
-##### One+ thing I accomplished today is...
+##### Things I accomplished today are...
 - [ ] 
 
 ##### One thing I'm struggling with today is...
