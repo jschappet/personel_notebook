@@ -26,7 +26,11 @@ tags:: [[+Daily Notes]]
 
 ---
 # 📝 Notes
-- 
+Today I am celebrating...
+
+Struggle I'm having...
+
+Looking forward to...
 
 ---
 ### Notes created today
