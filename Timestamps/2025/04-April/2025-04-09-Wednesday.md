@@ -19,18 +19,19 @@ tags:: [[+Daily Notes]]
 ##### Something about circling today...  
 - fine circle today without much drama. 
 ##### One+ thing I accomplished today is...
-- [ ] Sent Guillaume the together docker file
+- [x] Sent Guillaume the together docker file
+- [x] filed federal taxes
 
 ##### One thing I'm struggling with today is...
 - 
 
 ---
 # 📝 Notes
-Today I am celebrating...
+Today I am celebrating our cooperation on together. 
 
-Struggle I'm having...
+Struggle I'm having keeping my bad eating habits at bay. 
 
-Looking forward to...
+Looking forward to getting back to some rust projects as well
 
 ---
 ### Notes created today
