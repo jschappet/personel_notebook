@@ -1,0 +1,1 @@
+Would someone who has been following this thread sum up the end of the conversation for me? What have you been tracking or discovered about conciseness from this topic?
