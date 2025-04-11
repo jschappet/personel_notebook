@@ -19,17 +19,16 @@ tags:: [[+Daily Notes]]
 ##### Something about circling today...  
 - fine circle today without much drama. 
 ##### One+ thing I accomplished today is...
-- [x] Sent Guillaume the together docker file
-- [x] filed federal taxes
+- [ ] Sent Guillaume the together docker file
 
 ##### One thing I'm struggling with today is...
-- 
+- keeping some of my bad eating habits at bay
 
 ---
 # 📝 Notes
-Today I am celebrating our cooperation on together. 
+Today I am celebrating our cooperation on together. 
 
-Struggle I'm having keeping my bad eating habits at bay. 
+Struggle I'm having keeping my bad eating habits at bay. 
 
 Looking forward to getting back to some rust projects as well
 
