@@ -1,0 +1,8 @@
+confidence
+calmness
+creativity
+clarity
+curiosity
+courage
+compassion
+connectedness
