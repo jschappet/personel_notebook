@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/04-April/2025-04-13-Sunday.md",
+                "file": "Timestamps/2025/04-April/2025-04-15-Tuesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-13-Sunday"
+              "title": "2025-04-15-Tuesday"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "97d42fc3d04845c0",
   "lastOpenFiles": [
-    "Timestamps/2025/04-April/2025-04-12-Saturday.md",
+    "/The 8 C's.md",
     "Timestamps/2025/04-April/2025-04-13-Sunday.md",
+    "Timestamps/2025/04-April/2025-04-15-Tuesday.md",
+    "Timestamps/2025/04-April/2025-04-12-Saturday.md",
     "Timestamps/2025/04-April/2025-04-11-Friday.md",
     "Summarize Thread for Me.md",
     "/Summarize Thread for Me.md",
@@ -195,8 +197,6 @@
     "Timestamps/2025/04-April",
     "Timestamps/2025/03-March/2025-03-25-Tuesday.md",
     "My Theory of the World.md",
-    "Timestamps/2025/03-March/2025-03-23-Sunday.md",
-    "Welcome.md",
-    "Timestamps/2025/03-March/2025-03-22-Saturday.md"
+    "Timestamps/2025/03-March/2025-03-23-Sunday.md"
   ]
 }
