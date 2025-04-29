@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/04-April/2025-04-25-Friday.md",
+                "file": "Timestamps/2025/04-April/2025-04-27-Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-25-Friday"
+              "title": "2025-04-27-Sunday"
             }
           }
         ],
@@ -181,8 +181,10 @@
   },
   "active": "0fc1de66e60da4ad",
   "lastOpenFiles": [
-    "Map Interaction Request.md",
     "Timestamps/2025/04-April/2025-04-25-Friday.md",
+    "Timestamps/2025/04-April/2025-04-27-Sunday.md",
+    "Extras/Templates/Template - DailyNote.md",
+    "Map Interaction Request.md",
     "().md",
     "Summarize Thread for Me.md",
     "Timestamps/2025/04-April/2025-04-24-Thursday.md",
@@ -215,8 +217,6 @@
     "Timestamps/2025/04-April/2025-04-16-Wednesday.md",
     "Timestamps/2025/04-April/2025-04-15-Tuesday.md",
     "The 8 C's.md",
-    "/The 8 C's.md",
-    "Timestamps/2025/04-April/2025-04-13-Sunday.md",
     "/Extras/Templates",
     "Timestamps/2025/04-April"
   ]
