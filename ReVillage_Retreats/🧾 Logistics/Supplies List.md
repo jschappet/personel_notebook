@@ -1,0 +1,3 @@
+# Supplies List
+
+(Placeholder content)
