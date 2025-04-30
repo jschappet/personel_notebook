@@ -1,4 +1,4 @@
-Youbell. We're talking about the deep play retreat and the different components of the deep play retreat that makes sense. And how we apply them to what is potentially an opportunity to lead a retreat at Christine's house. 
+We're talking about the deep play retreat and the different components of the deep play retreat that makes sense. And how we apply them to what is potentially an opportunity to lead a retreat at Christine's house. 
 Yeah, I would like to figure out how to... We went to a retreat and it was welcoming. The power was talked about explicitly. 
 There was role basically power, and then there was some ability for other people to rise up and take their own power. So I like to build structures for that. There was also rituals for choosing what we were going to do. 
 So one of the rituals was to have everybody in the circle say what they would lead and then have each person in the room walk over to the one that they liked the best and put their hand on that person. So it was a way of voting together. And then the ones that did not win, we said goodbye to, and we warn't that we would never have the existence of this beautiful idea. 
