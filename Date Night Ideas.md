@@ -1,0 +1,11 @@
+- [ ] yoga - you pick the duration and style, I'll find a class
+- [ ] Message lesson practice- new body part
+- [ ] Deep clean a small spot/area
+- [ ] 10 minutes of decluttering
+- [ ] Fucking lots and lots of fucking
+- [ ] Walk - local - Just walk out of the house
+- [ ] Walk - remote - drive some where 
+- [ ] Practice an AR Game
+- [ ] Do some AR Game planning - What's on tap next week?
+- [ ] 10 Minutes of Meal Planning
+- [ ] 10 Minutes Shopping List

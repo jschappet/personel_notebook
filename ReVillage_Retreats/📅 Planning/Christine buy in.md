@@ -1,8 +1,8 @@
 
 
-Christine, we’ve been looking closely at what needs to be true for this retreat to feel like a full yes — especially for me. I want to feel supported, valued, leader-full, and in service. Genevieve wants to feel respected, valued, and to practice and experience her art of curating relational/depth context.
+Christine, we’ve been looking closely at what needs to be true for a visit to Phoenix to feel like a full yes — especially for me (Schappet). I want to feel supported, valued, leader-full, and in service. Genevieve wants to feel respected, valued, and to practice and experience her art of curating relational/depth context.
 
-I would like to explore together if your home is an aligned place to host this — not just physically, but with alignment of shared values and vision. I heard you say you long for more connection and to fill your space with heart-centered, authentic people. Would you like to explore our values and vision together to see if it is a match?
+I would like to explore together if this visit as an opportunity for us (Schappet, Genevieve, and Christine) to create a retreat event. Do we have an alignment of shared values and vision? I heard you say you long for more connection and to fill your space with heart-centered, authentic people. Would you like to explore our values and vision together to see if it is a match?
 
 We’d love to co-create this with you, not ask you to carry it. Our intention would be for you to feel honored, cherished, and deeply supported in this experience — we can do this with clear roles, shared responsibilities, and a spirit of collaboration. Can you think of anything else it needs?
 
