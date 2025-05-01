@@ -21,6 +21,9 @@ tags:: [[+Daily Notes]]
 - I had a great time with Christine, Marsha, Max and Tatini. We found welcoming, and when I said I was calming my nervous system they all responded supportively. It felt so so good.
 ##### One+ thing I accomplished today is...
 - [ ] Lots of notes created for in-person retreat
+- [ ] Created QR codes for tickets
+- [ ] Started ticket check in process
+- [ ] 
 
 ##### One thing I'm struggling with today is...
 - 
