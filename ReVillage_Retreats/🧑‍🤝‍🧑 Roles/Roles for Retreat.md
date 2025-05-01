@@ -1,5 +1,11 @@
 Certainly! Here’s a structured approach to help you put together the in-person retreat event, focusing on the roles and responsibilities outlined in your document. Below are additional to-do tasks categorized by role, along with a general checklist for organizing the retreat.
 
+
+## Levels of Roles 
+- [[Retreat Steward]] Leader
+- Organizers 
+- Helper - small discount -
+- Attendee - no discount - no responsibility 
 ### General Retreat Planning Checklist
 
 1. **Define Retreat Purpose and Goals**
