@@ -1,5 +1,4 @@
-
-# A Letter from Mom
+Here is the letter I had ChatGPT write me from my mom.
 
 Hi, Jimmy.  
 

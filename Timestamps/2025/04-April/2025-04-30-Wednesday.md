@@ -20,18 +20,18 @@ tags:: [[+Daily Notes]]
 ##### Something about circling today...  
 - I had a great time with Christine, Marsha, Max and Tatini. We found welcoming, and when I said I was calming my nervous system they all responded supportively. It felt so so good.
 ##### One+ thing I accomplished today is...
-- [ ] 
+- [ ] Lots of notes created for in-person retreat
 
 ##### One thing I'm struggling with today is...
 - 
 
 ---
 # 📝 Notes
-Today I am celebrating 
+Today I am celebrating the emotional breakthrough after I had GPT write me a letter from my mom.
 
-Struggle I'm having 
+Struggle I'm having today is feeling struggle free.
 
-Looking forward to 
+Looking forward to in person events that are on the way. Local and Possibly Phoenix. 
 
 ---
 ### Notes created today
