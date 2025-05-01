@@ -26,7 +26,7 @@ Pre Retreat Action
 1. **Define leadership structure:**
 	1. [[Roles for Retreat]]
 
-    - Confirm the “supreme leader” role and responsibilities for the retreat lead.
+    - Confirm the [[Retreat Steward]] role and responsibilities for the retreat lead.
         
     - Clarify Christine’s roles and negotiate shared leadership if desired.
         
