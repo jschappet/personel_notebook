@@ -1,5 +1,5 @@
 Hello, <name>
-Here is your ticket for our Sunday AR event. We have 6 people confirmed, so we are going to change plan just a little bit. We will be our house, 13292 Signe Rd, Mount Vernon WA 98273. 
+Here is your ticket for our Sunday AR event. We have 6 people confirmed. We will be meeting at our house, 13292 Signe Rd, Mount Vernon WA 98273. 
 
 We will take a break about 2:30 for snacks, please bring something to share.
 
