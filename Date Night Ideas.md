@@ -9,3 +9,5 @@
 - [ ] Do some AR Game planning - What's on tap next week?
 - [ ] 10 Minutes of Meal Planning
 - [ ] 10 Minutes Shopping List
+- [ ] Play dress up
+- [ ] 
