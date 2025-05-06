@@ -1,3 +1,0 @@
-# Invite List
-
-(Placeholder content)

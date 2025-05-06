@@ -1,3 +1,0 @@
-# Venue Info
-
-(Placeholder content)

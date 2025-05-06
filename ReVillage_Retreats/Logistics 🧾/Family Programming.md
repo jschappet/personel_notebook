@@ -1,1 +1,0 @@
-This will be a 21+ event. No child care needed.
