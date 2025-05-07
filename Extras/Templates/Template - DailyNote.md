@@ -19,8 +19,7 @@ tags:: [[+Daily Notes]]
 
 #####  One memory from my meditation..  
 - 
-
-#####  Some things I want to do for date night...
+##### Some things I want to do for date night...
 - [[Date Night Ideas]]
 ##### One thing that is important to me ...
 - 
@@ -28,7 +27,6 @@ tags:: [[+Daily Notes]]
 - 
 ##### One+ thing I accomplished today is...
 - [ ] 
-
 ##### One thing I'm struggling with today is...
 - 
 
