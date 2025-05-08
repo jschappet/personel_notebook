@@ -13,7 +13,7 @@ tags:: [[+Daily Notes]]
 
 - [ ] Practice [[Gateway Process/Focus 10|Focus 10]]
 - [ ] Yoga/exercise
-- [ ] Walk 
+- [x] Walk 
 - [ ] Read for 10 minutes 
 ### Daily Questions
 
@@ -32,11 +32,11 @@ tags:: [[+Daily Notes]]
 
 ---
 # 📝 Notes
-Today I am celebrating 
+Today I am celebrating I've been collecting all of my notes and old writings together into one place. It's been great to reflect on them with ChatGPT. It has pulled out interesting lines that have remained across time. I don't think I had much in the way of writing before my mom passed but after there's a bunch. 
 
-Struggle I'm having 
+Struggle I'm having how do I share what I'm thinking when Genevieve has no interest in here it. She was complete approval, I want that too. Can I approve of her and want her to look at and own something? I think it is possible. 
 
-Looking forward to 
+Looking forward to some conflict free time. Also looking forward to seeing updates from others here. 
 
 ---
 ### Notes created today
