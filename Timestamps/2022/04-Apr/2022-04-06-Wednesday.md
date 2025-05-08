@@ -1,0 +1,4 @@
+# Note for 2022-04-06 (Wednesday)
+### Time: 7:11 AM
+
+I’m awake this morning contemplating who am I and what to do with myself over the next few months.  I am not scared, I am excited   I am not alone, I am loved  I am not lost in I don’t know, I know I want you  I am not an outcast, I belong. Not because you love me, but because you showed me what love and belonging are like, and now I wont accept anything less.   I have no idea how our lives will look, the logistics of meeting both of our needs is daunting and I am not afraid of it. Instead I am stepping into the wonder of the unknown with you.   What a curious adventure we are beginning! Sharing it with you has it all feeling possible, maybe even simple. Just follow my heart ❤️, the rest is just details to be experienced.   I feel tears writing this, I feel happy writing this, I feel writing this  Do you want to follow your heart with me?
