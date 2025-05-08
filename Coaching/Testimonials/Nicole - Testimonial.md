@@ -1,0 +1,1 @@
+Jimmy coached me through one of the hardest times of my life. He helped me to work through and understand my grief on a deeper level and helped me put a plan in place to take care of myself as well. I do not think I would be as stable as I feel without his help. I am truly grateful for Jimmy and the coaching that he provides! – Nicole

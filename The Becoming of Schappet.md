@@ -1,7 +1,4 @@
-# The Becoming of Schappet  
 *A historical fiction of fire, gravity, and the founding of ReVillage*
-
----
 
 > **Rivers**  
 > We all live our lives as rivers, the banks keeping us on track,
@@ -20,17 +17,9 @@
 > until the old is no longer part of the new, streamlined you.
 
 ---
-
-## I. The Quiet Kingdom of Jimmy  
-...
-  
-*A historical fiction of fire, gravity, and the founding of ReVillage*
-
----
-
 ## I. The Quiet Kingdom of Jimmy
 
-Long ago, in a quiet kingdom on the edge of the western sea, there lived a man named **Jimmy**. He was known in his village for his calm demeanor, his gentle voice, and his knack for fixing things that others had given up on. But Jimmy carried a secret ache—a tremble in his chest that came not from chaos, but from the slow erosion of his own presence.
+Long ago, in a quiet kingdom on the edge of the eastern sea, there lived a man named **Jimmy**. He was known in his village for his calm demeanor, his gentle voice, and his knack for fixing things that others had given up on. But Jimmy carried a secret ache—a tremble in his chest that came not from chaos, but from the slow erosion of his own presence.
 
 He moved carefully through his life, a watcher from the edges. Love passed through his hands like water. Friendships surrounded him but never quite embraced him. He wondered, often in silence, if he had missed some secret invitation everyone else seemed to receive.
 
@@ -77,6 +66,7 @@ And in this new name, this new presence, others began to gather. Not because he 
 ---
 
 ## IV. The Founding of ReVillage
+TODO: Rewrite to include Genevieve this would not happen without her in my life and my heart.
 
 It began as a whisper.
 
@@ -107,7 +97,7 @@ The Compass teaches:
 - To trust gravity over approval.
 - That the gift we give is our presence—when fully given, it changes the field.
 
-Schappet did not write these words. He *embodied* them. And others wrote them down.
+Schappet did not write these words. He *embodied* them. 
 
 They say he walks the ReVillage still—quietly, humbly, but unmistakably radiant. That when you sit near him, your own fire feels more possible. That when he speaks, you remember things you forgot you knew.
 
@@ -116,3 +106,4 @@ They say he walks the ReVillage still—quietly, humbly, but unmistakably radian
 **From Jimmy to Schappet. From ache to anchor. From outsider to origin.**
 
 And the fire still burns.
+#GPT
