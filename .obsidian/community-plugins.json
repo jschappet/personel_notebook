@@ -1,6 +1,5 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "dataview",
-  "remotely-save"
+  "dataview"
 ]
