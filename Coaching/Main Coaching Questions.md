@@ -32,7 +32,7 @@ How Will You Know You Have It
 
 What will success look and feel like?
 
-What Obstacles
+## What Obstacles
 
 What could be the worst thing that could come from prioritizing yourself? What could be the best thing?
 
@@ -48,13 +48,13 @@ Who in your life can help keep you accountable to your goals/action steps?
 
 Who needs to give you permission to have this?
 
-Who Else Benefits
+## Who Else Benefits
 
 How might your relationship to yourself and others change if you were to do that? What would be the best part of that?
 
 What other people in your life might benefit from you achieving your goals? In what ways would they benefit?
 
-Continuation Questions
+## Continuation Questions
 
 Care to say more about that?
 
@@ -62,7 +62,7 @@ What could be the best thing if you give yourself permission to_______?
 
 How can you enrich the menu of choices for the next time you feel ________?
 
-Feel Questions
+## Feel Questions
 
 How does it feel to hear yourself say that?
 
@@ -72,7 +72,7 @@ How does that resonate in your gut? In your heart?
 
 I am noticing a shift in your (tone, body). Can you share more what emotions are coming up for you?
 
-Feeling Stuck/Not Making Changes
+## Feeling Stuck/Not Making Changes
 
 Is that in alignment with your vision?
 
@@ -90,7 +90,7 @@ What would you do if you weren’t afraid?
 
 What are you doing today to take care of yourself?
 
-Listening to Your Body
+## Listening to Your Body
 
 Who are you being when you eat? 
 
@@ -102,7 +102,7 @@ What is your gut telling you about this?
 
 In what way do you _______ (feel fat, feel unlovable, feel ugly, etc)?
 
-Cultivating Gratitude
+## Cultivating Gratitude
 
 What are you grateful for in your life right now?
 
@@ -112,7 +112,7 @@ What are you proud of right now?
 
 Can you share some small victories you had this past week?
 
-Personal Power/Creation
+## Personal Power/Creation
 
 What is one are of your life that you would like to create something new?
 
@@ -126,7 +126,7 @@ What new perspective can you have on yourself or your life that gives you freedo
 
 What new attitude can you adopt that supports your best life?
 
-Woundology/Negative Self Image
+## Woundology/Negative Self Image
 
 What (if any) negative thoughts hold you back from loving yourself and your body?
 
