@@ -4,7 +4,7 @@
 		- 
 	- Other options to be considered
 - Magic Map 
-	- I think Web Page links are broken right now
+	- I think Web Page links are broken right now -- Done
 	- Check in Discord
 - ReVillage WebPage 
 	- Update Content
