@@ -11,10 +11,14 @@
             "id": "3e79fb34c2f8254c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bending Back to Resonance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bending Back to Resonance"
             }
           }
         ]
@@ -162,6 +166,15 @@
   },
   "active": "3e79fb34c2f8254c",
   "lastOpenFiles": [
+    "GPT_Reflections/Comparison to the Binary - Compass Framework.md",
+    "GPT_Reflections/Connecting Past and Future.md",
+    "GPT_Reflections/Exploring Companion vs Savior.md",
+    "GPT_Reflections/From Notes with Greg.md",
+    "GPT_Reflections/Letting Go in the Valley.md",
+    "/Timestamps/2025/05-May/2025-05-12-Monday.md",
+    "/Timestamps/2025/05-May",
+    "/Timestamps/2025",
+    "/Timestamps",
     "Timestamps/2025/05-May/2025-05-12-Monday.md",
     "The Mirror Protocol.md",
     "Timestamps/2025/04-April/2025-04-04-Friday.md",
@@ -170,9 +183,6 @@
     "/Timestamps/2025/05-May/2025-05-11-Sunday.md",
     "/Timestamps/2025/05-May/2025-05-10-Saturday.md",
     "Timestamps/2025/05-May/2025-05-10-Saturday.md",
-    "/Timestamps/2025/05-May",
-    "/Timestamps/2025",
-    "/Timestamps",
     "Timestamps/2017/01-January/2017-01-30-Monday.md",
     "Timestamps/2016/06-June/2016-06-29-Wednesday.md",
     "Timestamps/2017/08-August/2017-08-06-Sunday.md",
@@ -185,12 +195,6 @@
     "Timestamps/2015/09-September/2015-09-28-Monday.md",
     "Timestamps/2016/05-May/2016-05-26-Thursday.md",
     "Timestamps/2016/06-June/2016-06-23-Thursday.md",
-    "Timestamps/2015/06-June/2015-06-18-Thursday.md",
-    "Timestamps/2015/08-August/2015-08-30-Sunday.md",
-    "Timestamps/2016/02-February/2016-02-15-Monday.md",
-    "Timestamps/2016/03-March/2016-03-04-Friday.md",
-    "Timestamps/2016/05-May/2016-05-30-Monday.md",
-    "Timestamps/2016/07-July/2016-07-09-Saturday.md",
     "Timestamps/2013/09-September",
     "Timestamps/2013/08-August",
     "Timestamps/2013/07-July",
