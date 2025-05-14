@@ -10,6 +10,7 @@ tags:: [[+Daily Notes]]
 ---
 https://youtu.be/C1AaqD8t3pk?feature=shared&t=475
 
+[[Current Projects]]
 ### Daily Todos
 
 - [ ] Practice [[Gateway Process/Focus 10|Focus 10]]

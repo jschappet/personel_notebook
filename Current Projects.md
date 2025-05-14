@@ -1,0 +1,15 @@
+- [[Email address Hosting Options]] -- for schappet@revillagesociety.org, genevieve@revillagesociery.org and others.
+	- Mail in a box self Hosted
+	- Zoho 
+	- Other options to be considered
+- Magic Map 
+	- I think Web Page links are broken right now
+	- Check in Discord
+- ReVillage WebPage 
+	- Update Content
+	- Investigate Feather
+		- ~/git/rust_school/testing_feather
+	- Get Responses from
+- Games Planning (in Person)
+- Games Planning (Online)
+- Manifesto / Compass

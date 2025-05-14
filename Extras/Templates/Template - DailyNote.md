@@ -9,6 +9,7 @@ tags:: [[+Daily Notes]]
 
 ---
 
+## [[Current Projects]]
 ### Daily Todos
 
 - [ ] Practice [[Gateway Process/Focus 10|Focus 10]]
