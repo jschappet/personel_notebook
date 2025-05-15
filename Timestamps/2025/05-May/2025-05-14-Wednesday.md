@@ -13,7 +13,7 @@ https://youtu.be/C1AaqD8t3pk?feature=shared&t=475
 [[Current Projects]]
 ### Daily Todos
 
-- [ ] Practice [[Gateway Process/Focus 10|Focus 10]]
+- [x] Practice [[Gateway Process/Focus 10|Focus 10]]
 - [ ] Yoga/exercise
 - [ ] Walk 
 - [ ] Read for 10 minutes 
@@ -34,11 +34,12 @@ https://youtu.be/C1AaqD8t3pk?feature=shared&t=475
 
 ---
 # 📝 Notes
-Today I am celebrating 
 
-Struggle I'm having 
+Today I’m celebrating getting an email hosting system setup for revillagesociety.org and schappet.com
 
-Looking forward to 
+Struggling with very little at the moment
+
+Looking forward to seeing who still uses my very old now , jimmy@schappet.com email address.
 
 ---
 ### Notes created today
