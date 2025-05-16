@@ -1,8 +1,3 @@
-- [[Email address Hosting Options]] -- for schappet@revillagesociety.org, genevieve@revillagesociery.org and others.
-	- Mail in a box self Hosted
-	- Zoho -- I've selected this one, It's free for now. 
-		- 
-	- Other options to be considered
 - Magic Map 
 	- I think Web Page links are broken right now -- Done
 	- Check in Discord
@@ -14,3 +9,12 @@
 - Games Planning (in Person)
 - Games Planning (Online)
 - Manifesto / Compass
+
+---
+### Completed 
+
+- [[Email address Hosting Options]] -- for schappet@revillagesociety.org, genevieve@revillagesociery.org and others.
+	- Mail in a box self Hosted
+	- Zoho -- I've selected this one, It's free for now. 
+		- 
+	- Other options to be considered
