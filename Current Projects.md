@@ -6,6 +6,9 @@
 	- Investigate Feather
 		- ~/git/rust_school/testing_feather
 	- Get Responses from
+	- Rust Email Sending - 
+		https://bocksdincoding.com/blog/sending-emails-with-rust
+	
 - Games Planning (in Person)
 - Games Planning (Online)
 - Manifesto / Compass
