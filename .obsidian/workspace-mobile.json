@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Mirror pro",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f1e2cb83e528e615",
@@ -164,8 +164,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e79fb34c2f8254c",
+  "active": "63d1dee4333902ee",
   "lastOpenFiles": [
+    "/Current Projects.md",
     "Timestamps/2025/05-May/2025-05-15-Thursday.md",
     "Timestamps/2025/05-May/2025-05-17-Saturday.md",
     "Manifesto/01-introduction/Fear Laundering.md",
@@ -197,7 +198,6 @@
     "/Coaching/Connect to Your Authentic Self.md",
     "Coaching/Connect to Your Authentic Self.md",
     "/Coaching",
-    "/Timestamps/2025/05-May/2025-05-16-Friday.md",
     "/Timestamps/2025/05-May",
     "/Timestamps/2025",
     "/Timestamps",
