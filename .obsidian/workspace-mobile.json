@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/05-May/2025-05-21-Wednesday.md",
+                "file": "Timestamps/2025/05-May/2025-05-22-Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-21-Wednesday"
+              "title": "2025-05-22-Thursday"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f1e2cb83e528e615",
@@ -164,10 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e79fb34c2f8254c",
+  "active": "e05b45b5bcd56b05",
   "lastOpenFiles": [
-    "Birthday Invitation.md",
     "Timestamps/2025/05-May/2025-05-21-Wednesday.md",
+    "Timestamps/2025/05-May/2025-05-22-Thursday.md",
+    "Birthday Invitation.md",
     "The Mirror Protocol.md",
     "Conversation with M.md",
     "Timestamps/2025/05-May/2025-05-20-Tuesday.md",
@@ -197,7 +198,6 @@
     "Manifesto/05-conclusion/draft.md",
     "Manifesto/05-conclusion",
     "Manifesto/06-scraps-and-quotes/raw-notes.md",
-    "Manifesto/06-scraps-and-quotes/possible-titles.md",
     "Manifesto/06-scraps-and-quotes",
     "Manifesto/03-theory-development",
     "/Coaching",
