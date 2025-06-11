@@ -99,10 +99,10 @@ This Declaration of Trust may be amended by unanimous agreement of the Trustees,
 
 By signing below, the Settlor and Trustees affirm their understanding of and commitment to the terms of this Declaration of Trust.
 
-|Name|Role|Signature|Date|
-|---|---|---|---|
-|[Settlor Name]|Settlor|__________________|___________|
-|[Trustee Name]|Trustee|__________________|___________|
-|[Trustee Name]|Trustee|__________________|___________|
+| Name           | Role    | Signature          | Date        |
+| -------------- | ------- | ------------------ | ----------- |
+| [Settlor Name] | Settlor | __________________ | ___________ |
+| [Trustee Name] | Trustee | __________________ | ___________ |
+| [Trustee Name] | Trustee | __________________ | ___________ |
 
 ---

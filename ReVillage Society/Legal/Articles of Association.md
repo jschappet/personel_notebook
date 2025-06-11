@@ -26,20 +26,21 @@
 3.4 The Society maintains a confidential Membership Log including member contact information and date of joining.  
 3.5 Members are encouraged, but not required, to contribute time, energy, or resources in a spirit of reciprocity.
 
+TODO: what is required of members and why what is needed, what is required? 
 ---
 
 ### 4. Rights and Responsibilities of Members
 
 4.1 Members have the right to attend meetings, events, and participate in Society activities.  
 4.2 Members agree to maintain confidentiality about Society matters shared in private.  
-4.3 Members commit to conflict resolution practices emphasizing honesty, respect, and repair without blame.  
+4.3 Members commit to conflict resolution practices emphasizing honesty, respect, and repair without blame, self examination, trusting the unfolding spiritual practice of conflict.
 4.4 Members may propose new initiatives, projects, or offerings for the Society’s growth.
 
 ---
 
 ### 5. Governance and Decision-Making
 
-5.1 The Society is stewarded by a **Stewards Council** composed of elected or appointed members who facilitate meetings and uphold the Society’s mission.  
+5.1 The Society is stewarded by a **[[Stewards Council]]** composed of elected or appointed members who facilitate meetings and uphold the Society’s mission.  
 5.2 Decisions are made by consensus where possible; when consensus is not achieved, decisions may be made by a supermajority vote (e.g., 75%) of attending members.  
 5.3 Regular meetings will be held (frequency to be determined by the Stewards Council) to discuss governance, planning, and community needs.  
 5.4 The Stewards Council maintains meeting minutes and records, accessible to all members.  

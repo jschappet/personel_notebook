@@ -46,7 +46,7 @@ The ReVillage Society is grounded in a set of shared values that form the spirit
 
 - **Belonging Through Presence** – We come home to ourselves and each other through authentic relationship.
 - **Compassionate Responsibility** – We practice mutual care, sovereignty, and accountability.
-- **Ecological Reverence** – We live in harmony with the land, recognizing Earth as a sacred teacher.
+- **Ecological Reverence** – We live in harmony with the land, recognizing Earth as a sacred teacher and friend.
 - **Post-Capitalist Experimentation** – We build alternative systems that prioritize community resilience over profit.
 - **Spiritual Freedom and Exploration** – We honor diverse paths toward truth, meaning, and connection.
 
