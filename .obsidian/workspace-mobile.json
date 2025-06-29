@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Letter",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f1e2cb83e528e615",
@@ -179,8 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e05b45b5bcd56b05",
+  "active": "63d1dee4333902ee",
   "lastOpenFiles": [
+    "Letter to Laurie.md",
+    "/Letter to Laurie.md",
     "Timestamps/2025/06-June/2025-06-27-Friday.md",
     "ReVillage Society/Podcast/Schappet Interviews Genevieve.md",
     "ReVillage Society/Podcast/Genevieve Interviews Schappet.md",
@@ -213,8 +215,6 @@
     "ReVillage Society/Member Handbook",
     "ReVillage Society/ReVillage Society Founding Checklist.md",
     "ReVillage Society/Legal/Settlor Role Description.md",
-    "ReVillage Society/Next Steps After Drafting Documents.md",
-    "ReVillage Society/Legal/Naming Policy Statement.md",
     "/ReVillage Society/Member Handbook",
     "/ReVillage Society/Legal",
     "/Extras/Images/TheRevilleger.png.png",
