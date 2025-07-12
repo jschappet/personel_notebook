@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Letter to Laurie.md",
+                "file": "grandma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Letter to Laurie"
+              "title": "grandma"
             }
           }
         ],
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f1e2cb83e528e615",
@@ -179,8 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff8ec69d146b191d",
+  "active": "e05b45b5bcd56b05",
   "lastOpenFiles": [
+    "Letter to Laurie.md",
+    "grandma.md",
     "Untitled.md",
     "Timestamps/2025/07-July/2025-07-07-Monday.md",
     "The ReVillager/3. The Stand/2. loudly and unapologetically.md",
@@ -205,9 +207,7 @@
     "The ReVillager/06-scraps-and-quotes/raw-notes.md",
     "The ReVillager/06-scraps-and-quotes/possible-titles.md",
     "The ReVillager/1. The Fracture/2. What we’re done tolerating..md",
-    "The ReVillager/1. The Fracture/1. What's Broken.md",
     "The ReVillager/3. The Stand",
-    "The ReVillager/00_who_is_telling_the_story.md",
     "The ReVillager/4. The Invitation",
     "The ReVillager/5. The Commitment",
     "The ReVillager/04-objections",
