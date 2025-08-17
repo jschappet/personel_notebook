@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Mirror Protocol.md",
+                "file": "Sentence Stems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Mirror Protocol"
+              "title": "Sentence Stems"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Senten",
+            "query": "Mirror pr",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -181,6 +181,7 @@
   },
   "active": "63d1dee4333902ee",
   "lastOpenFiles": [
+    "The Mirror Protocol.md",
     "Sentence Stems.md",
     "The Shadows We Bring to the Fire.md",
     "/The Shadows We Bring to the Fire.md",
@@ -206,7 +207,6 @@
     "The ReVillager/5. The Commitment/2. to ourselves and each other.md",
     "The ReVillager/04-objections/responses.md",
     "The ReVillager/04-objections/common-objections.md",
-    "The ReVillager/05-conclusion/draft.md",
     "The ReVillager/3. The Stand",
     "The ReVillager/4. The Invitation",
     "The ReVillager/5. The Commitment",

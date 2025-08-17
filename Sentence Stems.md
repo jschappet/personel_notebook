@@ -2,7 +2,7 @@
     
 - [ ] “If I could gift everyone here one experience, it would be…”
     
-- [ ] “A food that reminds me of home is…”
+- [x] “A food that reminds me of home is…”
     
 - [ ] “One topic I always want to know more about is…”
     
