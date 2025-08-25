@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Mirror Protocol.md",
+                "file": "Birthday Invitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Mirror Protocol"
+              "title": "Birthday Invitation"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Birthda",
+            "query": "Birthday invi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -179,11 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d1dee4333902ee",
+  "active": "ff8ec69d146b191d",
   "lastOpenFiles": [
+    "The Mirror Protocol.md",
     "Timestamps/2025/04-April/2025-04-04-Friday.md",
     "Sentence Stems.md",
-    "The Mirror Protocol.md",
     "The Shadows We Bring to the Fire.md",
     "/The Shadows We Bring to the Fire.md",
     "/Sentence Stems.md",
