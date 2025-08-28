@@ -1,8 +1,6 @@
 # Gentle Guide Rails for Fighting Well  
 *A living guide to nurture conflict as a path to deeper intimacy.*
 
----
-
 ## Introduction: Why Fighting Well Matters  
 Conflict is not a sign that something is broken—it’s a natural part of being close to someone. Fighting well does not mean avoiding conflict, but leaning into it with care, awareness, and respect.  
 
