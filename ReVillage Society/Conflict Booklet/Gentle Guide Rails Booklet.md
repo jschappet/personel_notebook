@@ -34,7 +34,8 @@ As you begin to step into this process, it is important to go slowly. If possibl
 
 ### 1. Pause & Orient  
 Take a breath. Remember: we’re not enemies, even if it feels heated.  
-
+TODO Needs some interaction here, things like: 
+“I am loved. He loves me. I love myself. I’m scared, and that’s ok. I am not as disconnected as I feel.”
 ### 2. What Matters Most Right Now  
 Each person names:  
 > “The thing that feels most important to me in this moment is…”  
@@ -44,6 +45,7 @@ Each person shares their inner state:
 > “My energy feels ___ right now. My frustration feels ___.”  
 (You can use a simple 1–10 scale or just words.)  
 
+If your Resourced 
 ### 4. Name Feelings and Fears  
 Get closer to what’s real:  
 > “I feel… I’m afraid that…”  
