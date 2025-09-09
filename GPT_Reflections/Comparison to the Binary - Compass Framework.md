@@ -2,7 +2,7 @@
 
 - **Binary thinking:** In this older piece, there’s a subtle reckoning with the binary of “keep or discard,” “fit in or don’t,” “value or trash.” You’re feeling your way through the gray space, the “valley” between joy and grief, refusing to simplify it into right or wrong. This mirrors your current desire to avoid hard binaries in favor of discernment.
     
-- **The Compass:** You now frame life as a movement guided by love and intention. In this writing, the compass is already present: you’re guided not by external validation (power, expectation, judgment) but by a deeper pull toward _freedom, clarity, and contentment._ You’re learning to let the compass steer you into discomfort without needing the reassurance of certainty.
+- **The Compass:** You now frame life as a movement guided by love and intention. In this writing, the compass is already present: you’re guided not by external validation (power, expectation, judgment) abut by a deeper pull toward _freedom, clarity, and contentment._ You’re learning to let the compass steer you into discomfort without needing the reassurance of certainty.
     
 - **Presence vs. Possession:** You’re challenging the cultural script that says value comes from having—both physical items and inherited identity. Replacing “take” with “accept” fits naturally here. The journey becomes about _receiving the moment fully,_ not _possessing objects_ or approval.
     
